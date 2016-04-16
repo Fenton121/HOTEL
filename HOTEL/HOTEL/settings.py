@@ -43,6 +43,7 @@ DJANGO_APPS = (
 
 HOTEL_APPS = (
     'HOTEL',
+    'structure',
 )
 
 INSTALLED_APPS = DJANGO_APPS + HOTEL_APPS
